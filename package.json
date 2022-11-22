@@ -1,0 +1,19 @@
+{
+  "name": "unnamed-note-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "watch": "tsc-watch --onSuccess 'node dist/index.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "express": "^4.18.2",
+    "tsc-watch": "^5.0.3",
+    "typescript": "^4.9.3"
+  }
+}
