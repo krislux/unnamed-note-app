@@ -1,7 +1,0 @@
-{
-    "ignore":[
-        "client",
-        "dist",
-        "node_modules"
-    ]
-}

@@ -1,4 +1,12 @@
 {
+  "include": [
+    "."
+  ],
+  "exclude": [
+    "node_modules",
+    "client",
+    "dist"
+  ],
   "compilerOptions": {
     "strict": true,
     "forceConsistentCasingInFileNames": true,
